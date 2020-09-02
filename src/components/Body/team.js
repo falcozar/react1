@@ -1,5 +1,7 @@
 import React from 'react';
-import Foto1 from './../assets/img/team/team-1.jpg'; //bug:ne s'affiche pas
+import team1 from './../assets/img/team/team-1.jpg';
+import team2 from './../assets/img/team/team-2.jpg';
+import team3 from './../assets/img/team/team-3.jpg';
 function Team() {
   return (
     <section id="team" className="team">
@@ -13,7 +15,7 @@ function Team() {
       <div className="row">
         <div className="col-lg-4 col-md-6 d-flex align-items-stretch">
           <div className="member">
-            <img src="{Foto1}" alt="team-1" />
+            <img src={team1} alt="team-1" />
             <h4>Walter White</h4>
             <span>Chief Executive Officer</span>
             <p>
@@ -30,7 +32,7 @@ function Team() {
 
         <div className="col-lg-4 col-md-6 d-flex align-items-stretch">
           <div className="member">
-            <img src="assets/img/team/team-2.jpg" alt="" />
+          <img src={team2} alt="team-2" />
             <h4>Sarah Jhinson</h4>
             <span>Product Manager</span>
             <p>
@@ -47,7 +49,7 @@ function Team() {
 
         <div className="col-lg-4 col-md-6 d-flex align-items-stretch">
           <div className="member">
-            <img src="assets/img/team/team-3.jpg" alt="" />
+          <img src={team3} alt="team-3" />
             <h4>William Anderson</h4>
             <span>CTO</span>
             <p>

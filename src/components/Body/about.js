@@ -1,7 +1,5 @@
 import React from 'react';
-
-import {logo} from './../assets/img/abouts.jpg'; // 'aboutimg' is defined but never used no-unused-vars
-
+import aboutsimg from './../assets/img/abouts.jpg';
 function About() {
   return (
     <section id="about" className="about">
@@ -13,7 +11,7 @@ function About() {
 
       <div className="row">
         <div className="col-lg-6 order-1 order-lg-2">
-          <img src="{logo}" className="App-logo" alt="A propos" />
+        <img src={aboutsimg} className="img-fluid" alt="logo" />
         </div>
         <div className="col-lg-6 pt-4 pt-lg-0 order-2 order-lg-1">
           <h3>Voluptatem dignissimos provident quasi corporis voluptates sit assumenda.</h3>
