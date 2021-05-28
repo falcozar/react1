@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/react1/static/css/main.8d654ecd.chunk.css",
+    "main.js": "/react1/static/js/main.c073d0d7.chunk.js",
+    "main.js.map": "/react1/static/js/main.c073d0d7.chunk.js.map",
+    "runtime-main.js": "/react1/static/js/runtime-main.f0d27708.js",
+    "runtime-main.js.map": "/react1/static/js/runtime-main.f0d27708.js.map",
+    "static/js/2.0ef3d3c0.chunk.js": "/react1/static/js/2.0ef3d3c0.chunk.js",
+    "static/js/2.0ef3d3c0.chunk.js.map": "/react1/static/js/2.0ef3d3c0.chunk.js.map",
+    "index.html": "/react1/index.html",
+    "static/css/main.8d654ecd.chunk.css.map": "/react1/static/css/main.8d654ecd.chunk.css.map",
+    "static/js/2.0ef3d3c0.chunk.js.LICENSE.txt": "/react1/static/js/2.0ef3d3c0.chunk.js.LICENSE.txt",
+    "static/media/abouts.2f180c67.jpg": "/react1/static/media/abouts.2f180c67.jpg",
+    "static/media/style.css": "/react1/static/media/hero-background.db73f843.jpg",
+    "static/media/icofont.min.css": "/react1/static/media/icofont.dad3accb.woff",
+    "static/media/portfolio-1.88163b16.jpg": "/react1/static/media/portfolio-1.88163b16.jpg",
+    "static/media/portfolio-2.58ef15fc.jpg": "/react1/static/media/portfolio-2.58ef15fc.jpg",
+    "static/media/portfolio-3.e84eb3bf.jpg": "/react1/static/media/portfolio-3.e84eb3bf.jpg",
+    "static/media/portfolio-4.e99517ec.jpg": "/react1/static/media/portfolio-4.e99517ec.jpg",
+    "static/media/portfolio-5.2dcd6723.jpg": "/react1/static/media/portfolio-5.2dcd6723.jpg",
+    "static/media/portfolio-6.c6b9e190.jpg": "/react1/static/media/portfolio-6.c6b9e190.jpg",
+    "static/media/portfolio-7.14e52d8a.jpg": "/react1/static/media/portfolio-7.14e52d8a.jpg",
+    "static/media/portfolio-8.0d2f076b.jpg": "/react1/static/media/portfolio-8.0d2f076b.jpg",
+    "static/media/portfolio-9.561bb1f2.jpg": "/react1/static/media/portfolio-9.561bb1f2.jpg",
+    "static/media/team-1.637e2dfb.jpg": "/react1/static/media/team-1.637e2dfb.jpg",
+    "static/media/team-2.392da3a8.jpg": "/react1/static/media/team-2.392da3a8.jpg",
+    "static/media/team-3.ed584623.jpg": "/react1/static/media/team-3.ed584623.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0d27708.js",
+    "static/js/2.0ef3d3c0.chunk.js",
+    "static/css/main.8d654ecd.chunk.css",
+    "static/js/main.c073d0d7.chunk.js"
+  ]
+}
