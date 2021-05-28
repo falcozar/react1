@@ -1,7 +1,5 @@
 import React from 'react';
-//import image01 from './../assets/img/logo192.png'; Erreur, La valeur n'est jamais lue!!!!!!!
 
-//console.log(image01 + "touky");
 
 function Header() {
   return (
@@ -9,7 +7,7 @@ function Header() {
   <div className="container">
 
     <div className="logo float-left">
-    <h1 className="text-light"><a href="index.html"><span>Falcozar</span></a></h1>
+    <h1 className="text-light"><a href="index.html"><span>React1</span></a></h1>
      
       
     </div>
