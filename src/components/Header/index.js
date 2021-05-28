@@ -7,7 +7,7 @@ function Header() {
   <div className="container">
 
     <div className="logo float-left">
-    <h1 className="text-light"><a href="index.html"><span>React1</span></a></h1>
+    <h1 className="text-light"><a href="index.html"><span>My First Page</span></a></h1>
      
       
     </div>
